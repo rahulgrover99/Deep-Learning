@@ -7,30 +7,27 @@
     - [ ] AI runs on computers and is thus powered by electricity, but it is letting computers do things not possible before.
     - [x] Similar to electricity starting about 100 years ago, AI is transforming multiple industries.
     
-    Note: Andrew illustrated the same idea in the lecture.
 
-2. Which of these are reasons for Deep Learning recently taking off? (Check the two options that apply.)
+2. Which of these are reasons for Deep Learning recently taking off? 
 
     - [x] We have access to a lot more computational power.
     - [ ] Neural Networks are a brand new field.
     - [x] We have access to a lot more data.
     - [x] Deep learning has resulted in significant improvements in important applications such as online advertising, speech recognition, and image recognition.
     
-3. Recall this diagram of iterating over different ML ideas. Which of the statements below are true? (Check all that apply.)
+3. Recall this diagram of iterating over different ML ideas. Which of the statements below are true? 
 
     - [x] Being able to try out ideas quickly allows deep learning engineers to iterate more quickly.
     - [x] Faster computation can help speed up how long a team takes to iterate to a good idea. 
     - [ ] It is faster to train on a big dataset than a small dataset.
     - [x] Recent progress in deep learning algorithms has allowed us to train good models faster (even without changing the CPU/GPU hardware).
 
-    Note: A bigger dataset generally requires more time to train on a same model.
 
 4. When an experienced deep learning engineer works on a new problem, they can usually use insight from previous problems to train a good model on the first try, without needing to iterate multiple times through different models. True/False?
 
     - [ ] True
     - [x] False
     
-    Note: Maybe some experience may help, but nobody can always find the best model or hyperparameters without iterations. 
 
 5. Which one of these plots represents a ReLU activation function?
 
